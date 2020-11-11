@@ -1,0 +1,13 @@
+blacklisted-commands:
+  - /test
+  - /test2
+  - /l
+  - /login
+  - /log
+  - /reg
+  - /register
+log_to:
+  - QuietW_
+  - svetilskaya
+  - Servantres
+  - legendarni_
